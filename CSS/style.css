@@ -1,0 +1,23 @@
+html 
+{
+font-size: 62.5%px;
+}
+body{
+    font-size: 16px;
+}
+.titulo {
+    text-align: center;
+    font-size: 3.8rem;
+    color: aqua;
+}
+.titulo span{
+
+    font-size: 2rem;
+    color: brown;
+
+}
+
+.titulo span{
+
+    color: yellow
+}
